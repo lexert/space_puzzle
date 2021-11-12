@@ -1,3 +1,3 @@
 Screen Puzzle Game
 
-![](screen.png "Demo")
+![](screen.jpg "Demo")
